@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "companyName": "TechNova Solutions",
+    "industry": "FinTech",
+    "investmentRequired": 5000000,
+    "expectedRoi": 18.5,
+    "riskLevel": "Medium",
+    "status": "Open",
+    "companyOverview": "TechNova Solutions represents a next-generation payments infrastructure company aiming to bridge the gap between traditional banking and decentralized finance. Founded by ex-Stripe engineers, they have already processed over $10M in transaction volume during their beta phase.",
+    "financialHighlights": [
+      "Revenue growth of 300% YoY",
+      "EBITDA margins at 15%",
+      "Client retention rate of 98%"
+    ],
+    "roiProjections": [10, 12, 14, 16, 18.5],
+    "riskExplanation": "Primary risks include rapidly evolving regulatory landscapes in the crypto-fiat bridge market, and potential high customer acquisition costs as traditional banks begin developing similar in-house solutions."
+  },
+  {
+    "id": "2",
+    "companyName": "GreenScape Energy",
+    "industry": "CleanTech",
+    "investmentRequired": 12000000,
+    "expectedRoi": 12.0,
+    "riskLevel": "Low",
+    "status": "Open",
+    "companyOverview": "GreenScape Energy is a mature solar panel installation and grid-management operator serving commercial real estate. Backed by government subsidies, they offer steady, long-term returns with highly predictable cash flows.",
+    "financialHighlights": [
+      "Guaranteed PPA (Power Purchase Agreements) for 15 years",
+      "Stable cash yield of 8% annually",
+      "Minimal operational overhead"
+    ],
+    "roiProjections": [8, 9, 10, 11, 12],
+    "riskExplanation": "Risk is limited to changes in state subsidies for solar energy, though current contracts are locked in. Supply chain disruptions for photovoltaic cells could temporarily delay new installations."
+  },
+  {
+    "id": "3",
+    "companyName": "Alpha Biotech",
+    "industry": "Healthcare",
+    "investmentRequired": 20000000,
+    "expectedRoi": 45.0,
+    "riskLevel": "High",
+    "status": "Open",
+    "companyOverview": "Alpha Biotech is currently in Phase II clinical trials for a revolutionary mRNA-based therapeutic targeting rare autoimmune diseases. If successful, the market potential is massive, but the binary nature of FDA approvals makes this highly speculative.",
+    "financialHighlights": [
+      "Secured $10M in non-dilutive grant funding",
+      "Strategic partnership with Pfizer for distribution",
+      "Zero revenue currently (pre-commercialization)"
+    ],
+    "roiProjections": [-10, -5, 0, 20, 45],
+    "riskExplanation": "Extremely high risk. Failure to pass Phase III clinical trials or secure FDA approval would result in significant loss of capital. Binary outcome."
+  },
+  {
+    "id": "4",
+    "companyName": "UrbanLogix",
+    "industry": "Logistics",
+    "investmentRequired": 3000000,
+    "expectedRoi": 22.0,
+    "riskLevel": "Medium",
+    "status": "Closed",
+    "companyOverview": "UrbanLogix focuses on last-mile delivery optimization using AI-driven routing algorithms. They plug into existing e-commerce platforms to decrease delivery times and carbon footprints.",
+    "financialHighlights": [
+      "MRR of $500K",
+      "Customer Acquisition Cost payback period < 6 months",
+      "Operating in 15 major metro areas"
+    ],
+    "roiProjections": [5, 12, 18, 20, 22],
+    "riskExplanation": "Subject to intense competition from giants like Amazon Logistics and well-funded startups. Dependent on maintaining api integrations with major e-commerce platforms."
+  },
+  {
+    "id": "5",
+    "companyName": "NexAI",
+    "industry": "AI",
+    "investmentRequired": 8500000,
+    "expectedRoi": 35.0,
+    "riskLevel": "High",
+    "status": "Open",
+    "companyOverview": "NexAI is developing proprietary foundational models customized for legal document analysis. By training exclusively on case law and legal precedents, their AI significantly outperforms generic models in accuracy and nuance.",
+    "financialHighlights": [
+      "3 top-tier law firms already signed LOIs",
+      "Lean team with low burn rate",
+      "High compute costs currently offset by cloud credits"
+    ],
+    "roiProjections": [-5, 5, 15, 25, 35],
+    "riskExplanation": "Compute costs may erode margins if pricing power isn't established. The rapid pace of general AI advancement could potentially commoditize their specialized advantage."
+  }
+]
