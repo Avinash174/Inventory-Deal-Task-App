@@ -53,6 +53,7 @@ class DealCard extends StatelessWidget {
                     ),
                   ),
                   Row(
+                    mainAxisSize: MainAxisSize.min,
                     children: [
                       if (deal.isInterested)
                         IconButton(
@@ -125,6 +126,7 @@ class DealCard extends StatelessWidget {
 
   Widget _buildInfoColumn(String label, String value) {
     return Column(
+      mainAxisSize: MainAxisSize.min,
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
@@ -154,6 +156,7 @@ class DealCard extends StatelessWidget {
     }
 
     return Column(
+      mainAxisSize: MainAxisSize.min,
       crossAxisAlignment: CrossAxisAlignment.end,
       children: [
         Text(
